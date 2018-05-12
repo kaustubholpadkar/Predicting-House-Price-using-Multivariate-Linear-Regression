@@ -30,7 +30,7 @@ There are 3 variants of Gradient Descent algorithm that are implemented and test
 Run the jupyter notebook `Multivariate_Linear_Regression_Python.ipynb`
 
 ### Results
-
+![data](cost.png)
 
 ### References
 - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
