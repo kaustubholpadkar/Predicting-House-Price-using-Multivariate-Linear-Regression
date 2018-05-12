@@ -7,7 +7,7 @@ Predicting House Price from Size and Number of Bedrooms using Multivariate Linea
 - We are using size and number of bedrooms for predicting price of house
 
 ### Usage
-Run the jupyter notebook `linear_regression.ipynb`
+Run the jupyter notebook `Multivariate_Linear_Regression_Python.ipynb`
 
 ### References
 - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
