@@ -27,6 +27,8 @@ There are 3 variants of Gradient Descent algorithm that are implemented and test
 ### Usage
 Run the jupyter notebook `Multivariate_Linear_Regression_Python.ipynb`
 
+### Results
+
 ### References
 - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
 - [Multivariate Linear Regression in Python WITHOUT Scikit-Learn](https://medium.com/we-are-orb/multivariate-linear-regression-in-python-without-scikit-learn-7091b1d45905)
