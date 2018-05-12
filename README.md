@@ -1,6 +1,24 @@
 # Predicting-House-Price-using-Multivariate-Linear-Regression
 Predicting House Price from Size and Number of Bedrooms using Multivariate Linear Regression in Python from scratch
 
+## Description
+This project demonstrates how multivariate linear regression can be used to predict the House Price from Size and Number of Bedrooms.
+<br/>
+<br/>
+A small dataset of house data is utilized. Intuitively, there must be a relationship between the size, number of bedrooms and the price of the house. The more size and number of bedrooms, the more the price of house should be. The multivariate linear regression is used to uncover this relationship.
+<br/>
+<br/>
+There are several numerical optimization techniques amongst which the Gradient Descent method is examined to minimize the cost function of Multivariate Linear Regression.
+<br/>
+<br/>
+There are 3 variants of Gradient Descent algorithm that are implemented and tested throughout the project. 
+- Batch Gradient Descent
+- Stochastic Gradient Descent
+- Mini-Batch Gradient Descent
+<br/>
+<br/>
+
+
 ### Dataset
 - [House Data](https://github.com/kaustubholpadkar/Predicting-House-Price-using-Multivariate-Linear-Regression/blob/master/home.txt)
 - Dataset contains 3 columns : size, number of bedrooms	and price comprising of total 47 rows.
