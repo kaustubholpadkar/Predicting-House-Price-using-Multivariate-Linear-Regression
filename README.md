@@ -2,7 +2,9 @@
 Predicting House Price from Size and Number of Bedrooms using Multivariate Linear Regression in Python from scratch
 
 ### Dataset
-- [Home Data]()
+- [House Data](https://github.com/kaustubholpadkar/Predicting-House-Price-using-Multivariate-Linear-Regression/blob/master/home.txt)
+- Dataset contains 3 columns : size, number of bedrooms	and price comprising of total 47 rows.
+- We are using size and number of bedrooms for predicting price of house
 
 ### References
 - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
