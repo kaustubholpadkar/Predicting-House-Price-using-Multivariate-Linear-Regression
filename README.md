@@ -24,6 +24,8 @@ There are 3 variants of Gradient Descent algorithm that are implemented and test
 - Dataset contains 3 columns : size, number of bedrooms	and price comprising of total 47 rows.
 - We are using size and number of bedrooms for predicting price of house
 
+![data](data.png)
+
 ### Usage
 Run the jupyter notebook `Multivariate_Linear_Regression_Python.ipynb`
 
