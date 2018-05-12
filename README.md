@@ -31,9 +31,16 @@ Run the jupyter notebook `Multivariate_Linear_Regression_Python.ipynb`
 
 ### Results
 ![data](cost.png)
+<br/>
+<br/>
 ![result1](r1.png)
+<br/>
+<br/>
 ![result2](r2.png)
+<br/>
+<br/>
 ![result3](r3.png)
+
 
 ### References
 - [Gradient Descent Algorithm and Its Variants](https://towardsdatascience.com/gradient-descent-algorithm-and-its-variants-10f652806a3)
